@@ -1,0 +1,30 @@
+{
+	"id": "original-soundtrack-vol-3",
+	"name": "Original Soundtrack Vol. 3",
+	"songs": [
+		{
+			"name": "Burning Sands",
+			"artist": "Boom Kitty"
+		},
+		{
+			"name": "Full Charge",
+			"artist": "Pixl"
+		},
+		{
+			"name": "Give A Little Love",
+			"artist": "Pegboard Nerds"
+		},
+		{
+			"name": "Immortal",
+			"artist": "Slippy"
+		},
+		{
+			"name": "Origins",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "Reason for Living",
+			"artist": "Morgan Page"
+		}
+	]
+}

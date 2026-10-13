@@ -1,0 +1,54 @@
+{
+	"id": "bts",
+	"name": "BTS",
+	"songs": [
+		{
+			"name": "Blood Sweat & Tears",
+			"artist": "BTS"
+		},
+		{
+			"name": "Boy With Luv (Feat. Halsey)",
+			"artist": "BTS"
+		},
+		{
+			"name": "Burning Up (Fire)",
+			"artist": "BTS"
+		},
+		{
+			"name": "Dionysus",
+			"artist": "BTS"
+		},
+		{
+			"name": "DNA",
+			"artist": "BTS"
+		},
+		{
+			"name": "Dope",
+			"artist": "BTS"
+		},
+		{
+			"name": "Dynamite",
+			"artist": "BTS"
+		},
+		{
+			"name": "Fake Love",
+			"artist": "BTS"
+		},
+		{
+			"name": "Idol",
+			"artist": "BTS"
+		},
+		{
+			"name": "Mic Drop (Steve Aoki Remix)",
+			"artist": "BTS"
+		},
+		{
+			"name": "Not Today",
+			"artist": "BTS"
+		},
+		{
+			"name": "Ugh!",
+			"artist": "BTS"
+		}
+	]
+}

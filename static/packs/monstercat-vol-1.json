@@ -1,0 +1,46 @@
+{
+	"id": "monstercat-vol-1",
+	"name": "Monstercat Vol. 1",
+	"songs": [
+		{
+			"name": "Boundless",
+			"artist": "Aero Chord"
+		},
+		{
+			"name": "Emoji VIP",
+			"artist": "Pegboard Nerds"
+		},
+		{
+			"name": "Epic",
+			"artist": "Tokyo Machine"
+		},
+		{
+			"name": "Feeling Stronger",
+			"artist": "Muzz, Charlotte Colley"
+		},
+		{
+			"name": "Overkill",
+			"artist": "Riot"
+		},
+		{
+			"name": "Rattlesnake",
+			"artist": "Rogue"
+		},
+		{
+			"name": "Stronger (feat. Emel)",
+			"artist": "Stonebank, Emel"
+		},
+		{
+			"name": "This Time",
+			"artist": "Kayzo"
+		},
+		{
+			"name": "Till It's Over",
+			"artist": "Tristam"
+		},
+		{
+			"name": "We Won't Be Alone (feat. Laura Brehm)",
+			"artist": "Feint, Laura Brehm"
+		}
+	]
+}

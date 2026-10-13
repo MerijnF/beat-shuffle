@@ -1,0 +1,38 @@
+{
+	"id": "rock-mixtape",
+	"name": "Rock Mixtape",
+	"songs": [
+		{
+			"name": "Born To Be Wild",
+			"artist": "Steppenwolf"
+		},
+		{
+			"name": "Eye of the Tiger",
+			"artist": "Survivor"
+		},
+		{
+			"name": "Free Bird",
+			"artist": "Lynyrd Skynyrd"
+		},
+		{
+			"name": "I Was Made For Lovin' You",
+			"artist": "Kiss"
+		},
+		{
+			"name": "Seven Nation Army",
+			"artist": "The White Stripes"
+		},
+		{
+			"name": "Smells Like Teen Spirit",
+			"artist": "Nirvana"
+		},
+		{
+			"name": "Sweet Child O' Mine",
+			"artist": "Guns N' Roses"
+		},
+		{
+			"name": "The Pretender",
+			"artist": "Foo Fighters"
+		}
+	]
+}

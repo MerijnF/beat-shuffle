@@ -1,0 +1,74 @@
+{
+	"id": "metallica",
+	"name": "Metallica",
+	"songs": [
+		{
+			"name": "Atlas, Rise!",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Battery",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Blackened",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Creeping Death",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Enter Sandman",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Fade to Black",
+			"artist": "Metallica"
+		},
+		{
+			"name": "For Whom the Bell Tolls",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Fuel",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Hit the Lights",
+			"artist": "Metallica"
+		},
+		{
+			"name": "King Nothing",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Lux Æterna",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Master of Puppets",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Nothing Else Matters",
+			"artist": "Metallica"
+		},
+		{
+			"name": "One",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Sad But True",
+			"artist": "Metallica"
+		},
+		{
+			"name": "Seek & Destroy",
+			"artist": "Metallica"
+		},
+		{
+			"name": "The Unforgiven",
+			"artist": "Metallica"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"id": "green-day",
+	"name": "Green Day",
+	"songs": [
+		{
+			"name": "American Idiot",
+			"artist": "Green Day"
+		},
+		{
+			"name": "Boulevard of Broken Dreams",
+			"artist": "Green Day"
+		},
+		{
+			"name": "Father of All...",
+			"artist": "Green Day"
+		},
+		{
+			"name": "Holiday",
+			"artist": "Green Day"
+		},
+		{
+			"name": "Fire, Ready, Aim",
+			"artist": "Green Day"
+		},
+		{
+			"name": "Minority",
+			"artist": "Green Day"
+		}
+	]
+}

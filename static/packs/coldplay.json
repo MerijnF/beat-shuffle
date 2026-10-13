@@ -1,0 +1,54 @@
+{
+	"id": "coldplay",
+	"name": "Coldplay",
+	"songs": [
+		{
+			"name": "A Sky Full of Stars",
+			"artist": "Coldplay"
+		},
+		{
+			"name": "Adventure of a Lifetime",
+			"artist": "Coldplay"
+		},
+		{
+			"name": "Clocks",
+			"artist": "Coldplay"
+		},
+		{
+			"name": "Feelslikeimfallinginlove",
+			"artist": "Coldplay"
+		},
+		{
+			"name": "Good Feelings",
+			"artist": "Coldplay, Ayra Starr"
+		},
+		{
+			"name": "Something Just Like This",
+			"artist": "The Chainsmokers, Coldplay"
+		},
+		{
+			"name": "Speed of Sound",
+			"artist": "Coldplay"
+		},
+		{
+			"name": "Talk",
+			"artist": "Coldplay"
+		},
+		{
+			"name": "Trouble",
+			"artist": "Coldplay"
+		},
+		{
+			"name": "Viva La Vida",
+			"artist": "Coldplay"
+		},
+		{
+			"name": "We Pray",
+			"artist": "Coldplay, Little Simz, Burna Boy, Elyanna, Tini"
+		},
+		{
+			"name": "Yellow",
+			"artist": "Coldplay"
+		}
+	]
+}

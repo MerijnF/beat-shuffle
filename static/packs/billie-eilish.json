@@ -1,0 +1,46 @@
+{
+	"id": "billie-eilish",
+	"name": "Billie Eilish",
+	"songs": [
+		{
+			"name": "All the Good Girls Go to Hell",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "Bad Guy",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "You Should See Me in a Crown",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "Bury a Friend",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "Bellyache",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "Happier Than Ever",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "I Didn't Change My Number",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "NDA",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "Oxytocin",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "Therefore I Am",
+			"artist": "Billie Eilish"
+		}
+	]
+}

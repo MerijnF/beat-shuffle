@@ -1,0 +1,54 @@
+{
+	"id": "the-weeknd",
+	"name": "The Weeknd",
+	"songs": [
+		{
+			"name": "Die for You (Remix) (feat. Ariana Grande)",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "Less Than Zero",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "Blinding Lights",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "Can't Feel My Face",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "How Do I Make You Love Me?",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "I Feel It Coming (feat. Daft Punk)",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "Pray For Me",
+			"artist": "The Weeknd, Kendrick Lamar"
+		},
+		{
+			"name": "Sacrifice",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "Save Your Tears",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "Starboy (feat. Daft Punk)",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "Take My Breath",
+			"artist": "The Weeknd"
+		},
+		{
+			"name": "The Hills",
+			"artist": "The Weeknd"
+		}
+	]
+}

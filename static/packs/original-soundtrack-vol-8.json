@@ -1,0 +1,30 @@
+{
+	"id": "original-soundtrack-vol-8",
+	"name": "Original Soundtrack Vol. 8",
+	"songs": [
+		{
+			"name": "Badly (ft. Vivi Zena)",
+			"artist": "Camellia, Vivi Zena"
+		},
+		{
+			"name": "Dragon Smash Goblin (ft. Nekrogoblikon)",
+			"artist": "DragonForce, Nekrogoblikon"
+		},
+		{
+			"name": "Monday Not Sick Anymore",
+			"artist": "Lindsey Stirling"
+		},
+		{
+			"name": "Overload",
+			"artist": "Auvic"
+		},
+		{
+			"name": "Starlight",
+			"artist": "Juu, Dark Cat"
+		},
+		{
+			"name": "The Master II: Blades of Chaos",
+			"artist": "Teminite, Boom Kitty"
+		}
+	]
+}

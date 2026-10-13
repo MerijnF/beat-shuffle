@@ -1,0 +1,30 @@
+{
+	"id": "monstercat-x-rocket-league",
+	"name": "Monstercat X Rocket League",
+	"songs": [
+		{
+			"name": "Glide",
+			"artist": "Stephen Walking"
+		},
+		{
+			"name": "Luv U Need U",
+			"artist": "Slushii"
+		},
+		{
+			"name": "Play",
+			"artist": "Tokyo Machine"
+		},
+		{
+			"name": "Rock It",
+			"artist": "Tokyo Machine"
+		},
+		{
+			"name": "Shiawase",
+			"artist": "Dion Timmer"
+		},
+		{
+			"name": "Test Me",
+			"artist": "Slushii, Dion Timmer"
+		}
+	]
+}

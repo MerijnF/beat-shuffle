@@ -1,0 +1,54 @@
+{
+	"id": "monstercat-mixtape-2",
+	"name": "Monstercat Mixtape 2",
+	"songs": [
+		{
+			"name": "Accelerate",
+			"artist": "Teminite, Skybreak"
+		},
+		{
+			"name": "Dabadabadabadaba",
+			"artist": "Excision, Dion Timmer"
+		},
+		{
+			"name": "Dead Man Walking",
+			"artist": "Grant, Ellis"
+		},
+		{
+			"name": "Endgame",
+			"artist": "Bossfight"
+		},
+		{
+			"name": "Final Boss",
+			"artist": "Nitro Fun"
+		},
+		{
+			"name": "Memory Bank",
+			"artist": "Dyro, Conro"
+		},
+		{
+			"name": "Mercenary",
+			"artist": "F.O.O.L, Power Glove"
+		},
+		{
+			"name": "Pump",
+			"artist": "Teddy Killerzs, Pegboard Nerds"
+		},
+		{
+			"name": "Rad",
+			"artist": "Tokyo Machine"
+		},
+		{
+			"name": "Riot",
+			"artist": "Öwnboss, Selva"
+		},
+		{
+			"name": "Thrones of Blood",
+			"artist": "Sullivan King"
+		},
+		{
+			"name": "Wake Up",
+			"artist": "Alan Walker"
+		}
+	]
+}

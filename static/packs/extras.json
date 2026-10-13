@@ -1,0 +1,58 @@
+{
+	"id": "extras",
+	"name": "Extras",
+	"songs": [
+		{
+			"name": "$100 Bills (Camellia's \"$215-step\" Remix)",
+			"artist": "Jaroslav Beck, Camellia"
+		},
+		{
+			"name": "Angel Voices",
+			"artist": "Virtual Self"
+		},
+		{
+			"name": "Crab Rave",
+			"artist": "Noisestorm"
+		},
+		{
+			"name": "Danger",
+			"artist": "Teminite, Boom Kitty"
+		},
+		{
+			"name": "Escape Remix",
+			"artist": "Jaroslav Beck, Tokyo Machine"
+		},
+		{
+			"name": "FitBeat",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "One Hope (ft. David Binney)",
+			"artist": "Knower, David Binney"
+		},
+		{
+			"name": "Pop/Stars",
+			"artist": "K/DA"
+		},
+		{
+			"name": "Spooky Beat",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "Killshot",
+			"artist": "Boom Kitty, MDK"
+		},
+		{
+			"name": "Astral Blossom",
+			"artist": "Skybreak, Daeya"
+		},
+		{
+			"name": "Phantom Fangs",
+			"artist": "Zakka G"
+		},
+		{
+			"name": "Gone For Good",
+			"artist": "Haywyre"
+		}
+	]
+}

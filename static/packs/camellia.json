@@ -1,0 +1,30 @@
+{
+	"id": "camellia",
+	"name": "Camellia",
+	"songs": [
+		{
+			"name": "Cycle Hit",
+			"artist": "Kasai Harcores"
+		},
+		{
+			"name": "Crystallized",
+			"artist": "Camellia"
+		},
+		{
+			"name": "What the Cat!?",
+			"artist": "Camellia"
+		},
+		{
+			"name": "Exit this Earth's Atomosphere",
+			"artist": "Camellia"
+		},
+		{
+			"name": "Ghost",
+			"artist": "Camellia"
+		},
+		{
+			"name": "Light it Up",
+			"artist": "Camellia"
+		}
+	]
+}

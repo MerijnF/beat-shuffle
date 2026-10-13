@@ -1,0 +1,42 @@
+{
+	"id": "hip-hop-mixtape",
+	"name": "Hip Hop Mixtape",
+	"songs": [
+		{
+			"name": "All Eyez On Me (feat. Big Syke)",
+			"artist": "2Pac"
+		},
+		{
+			"name": "Anaconda",
+			"artist": "Nicki Minaj"
+		},
+		{
+			"name": "Gin and Juice",
+			"artist": "Snoop Dogg"
+		},
+		{
+			"name": "Godzilla (feat. Juice Wrld)",
+			"artist": "Eminem"
+		},
+		{
+			"name": "Hey Ya!",
+			"artist": "Outkast"
+		},
+		{
+			"name": "Hypnotize",
+			"artist": "The Notorious B.I.G."
+		},
+		{
+			"name": "Nuthin' But A \"G\" Thang",
+			"artist": "Dr. Dre"
+		},
+		{
+			"name": "The Message",
+			"artist": "Grandmaster Flash & The Furious Five"
+		},
+		{
+			"name": "The Woo (feat. 50 Cent, Roddy Ricch)",
+			"artist": "Pop Smoke"
+		}
+	]
+}

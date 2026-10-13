@@ -1,0 +1,42 @@
+{
+	"id": "lizzo",
+	"name": "Lizzo",
+	"songs": [
+		{
+			"name": "2 Be Loved (Am I Ready)",
+			"artist": "Lizzo"
+		},
+		{
+			"name": "About Damn Time",
+			"artist": "Lizzo"
+		},
+		{
+			"name": "Cuz I Love You",
+			"artist": "Lizzo"
+		},
+		{
+			"name": "Everybody's Gay",
+			"artist": "Lizzo"
+		},
+		{
+			"name": "Good as Hell",
+			"artist": "Lizzo"
+		},
+		{
+			"name": "Juice",
+			"artist": "Lizzo"
+		},
+		{
+			"name": "Tempo (feat. Missy Elliott)",
+			"artist": "Lizzo"
+		},
+		{
+			"name": "Truth Hurts",
+			"artist": "Lizzo"
+		},
+		{
+			"name": "Worship",
+			"artist": "Lizzo"
+		}
+	]
+}

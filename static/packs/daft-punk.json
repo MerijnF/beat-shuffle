@@ -1,0 +1,46 @@
+{
+	"id": "daft-punk",
+	"name": "Daft Punk",
+	"songs": [
+		{
+			"name": "Around the World",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "Around the World / Harder Better Faster Stronger (Live 2007)",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "Da Funk / Daftendirekt",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "Harder, Better, Faster, Stronger",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "One More Time",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "Technologic",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "The Prime Time of Your Life (Live 2007)",
+			"artist": "Daft Punk"
+		},
+		{
+			"name": "Veridis Quo",
+			"artist": "Daft Punk"
+		}
+	]
+}

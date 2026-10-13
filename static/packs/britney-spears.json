@@ -1,0 +1,50 @@
+{
+	"id": "britney-spears",
+	"name": "Britney Spears",
+	"songs": [
+		{
+			"name": "...Baby One More Time",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "Circus",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "Gimme More",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "I'm a Slave 4 U",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "Me Against the Music (feat. Madonna)",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "Oops!...I Did It Again",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "Overprotected",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "Scream and Shout",
+			"artist": "Britney Spears, Will.i.am"
+		},
+		{
+			"name": "Till the World Ends",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "Toxic",
+			"artist": "Britney Spears"
+		},
+		{
+			"name": "Womanizer",
+			"artist": "Britney Spears"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "lady-gaga",
+	"name": "Lady Gaga",
+	"songs": [
+		{
+			"name": "Alejandro",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Bad Romance",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Born This Way",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Just Dance (feat. Colby O'Donis)",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Paparazzi",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Poker Face",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Rain On Me (with Ariana Grande)",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Stupid Love",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Telephone (feat. Beyoncé)",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "The Edge Of Glory",
+			"artist": "Lady Gaga"
+		}
+	]
+}

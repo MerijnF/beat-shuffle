@@ -1,0 +1,47 @@
+{
+	"id": "original-soundtrack-vol-1",
+	"name": "Original Soundtrack Vol. 1",
+	"image": "https://beatsaber.com/images/music/music1.jpg",
+	"songs": [
+		{
+			"name": "$100 Bills",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "Balearic Pumping",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "Beat Saber",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "Breezer",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "Commercial Pumping",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "Country Rounds (Sqeepo Remix)",
+			"artist": "Jaroslav Beck, Kings & Folk, Sqeepo"
+		},
+		{
+			"name": "Escape (ft. Summer Haze)",
+			"artist": "Jaroslav Beck, Summer Haze"
+		},
+		{
+			"name": "Legend (ft. Backchat)",
+			"artist": "Jaroslav Beck, Crispin, Backchat"
+		},
+		{
+			"name": "Lvl Insane",
+			"artist": "Jaroslav Beck"
+		},
+		{
+			"name": "Turn Me On (ft. Tiny C)",
+			"artist": "Jaroslav Beck, Tiny C"
+		}
+	]
+}

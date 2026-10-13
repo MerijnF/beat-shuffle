@@ -1,0 +1,50 @@
+{
+	"id": "the-rolling-stones",
+	"name": "The Rolling Stones",
+	"songs": [
+		{
+			"name": "Angry",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Bite My Head Off (feat. Paul McCartney)",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Can't You Hear Me Knocking",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Gimme Shelter",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "(I Can't Get No) Satisfaction",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Live By the Sword (feat. Elton John)",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Mess It Up",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Paint It Black",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Start Me Up",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Sympathy For The Devil",
+			"artist": "The Rolling Stones"
+		},
+		{
+			"name": "Whole Wide World",
+			"artist": "The Rolling Stones"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"id": "imagine-dragons",
+	"name": "Imagine Dragons",
+	"songs": [
+		{
+			"name": "Bad Liar",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Believer",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Digital",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "It's Time",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Machine",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Natural",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Radioactive",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Thunder",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Warriors",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Whatever It Takes",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Bones",
+			"artist": "Imagine Dragons"
+		},
+		{
+			"name": "Enemy",
+			"artist": "Imagine Dragons, JID"
+		}
+	]
+}

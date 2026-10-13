@@ -1,0 +1,30 @@
+{
+	"id": "original-soundtrack-vol-5",
+	"name": "Original Soundtrack Vol. 5",
+	"songs": [
+		{
+			"name": "$1.78",
+			"artist": "Schwank"
+		},
+		{
+			"name": "Curtains (All Night Long)",
+			"artist": "Eewk"
+		},
+		{
+			"name": "Final-Boss-Chan",
+			"artist": "Camellia"
+		},
+		{
+			"name": "Firestarter",
+			"artist": "Tanger"
+		},
+		{
+			"name": "I Wanna Be A Machine",
+			"artist": "The Living Tombstone"
+		},
+		{
+			"name": "Magic",
+			"artist": "Jaroslav Beck, Meredith Bull"
+		}
+	]
+}

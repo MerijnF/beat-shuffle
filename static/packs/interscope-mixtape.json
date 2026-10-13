@@ -1,0 +1,34 @@
+{
+	"id": "interscope-mixtape",
+	"name": "Interscope Mixtape",
+	"songs": [
+		{
+			"name": "Counting Stars",
+			"artist": "OneRepublic"
+		},
+		{
+			"name": "DNA.",
+			"artist": "Kendrick Lamar"
+		},
+		{
+			"name": "Don't Cha",
+			"artist": "The Pussycat Dolls"
+		},
+		{
+			"name": "Party Rock Anthem",
+			"artist": "LMFAO, Lauren Bennett, GoonRock"
+		},
+		{
+			"name": "Rollin' (Air Raid Vehicle)",
+			"artist": "Limp Bizkit"
+		},
+		{
+			"name": "Sugar",
+			"artist": "Maroon 5"
+		},
+		{
+			"name": "The Sweet Escape (ft. Akon)",
+			"artist": "Gwen Stefani, Akon"
+		}
+	]
+}

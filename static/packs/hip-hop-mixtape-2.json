@@ -1,0 +1,38 @@
+{
+	"id": "hip-hop-mixtape-2",
+	"name": "Hip Hop Mixtape 2",
+	"songs": [
+		{
+			"name": "TV Off",
+			"artist": "Kendrick Lamar"
+		},
+		{
+			"name": "Industry Baby",
+			"artist": "Lil Nas X & Jack Harlow"
+		},
+		{
+			"name": "Kiss Me More (feat. SZA)",
+			"artist": "Doja Cat"
+		},
+		{
+			"name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+			"artist": "JID"
+		},
+		{
+			"name": "6 Foot 7 Foot (feat. Cory Gunz)",
+			"artist": "Lil Wayne"
+		},
+		{
+			"name": "I Like It (with Bad Bunny & J Balvin)",
+			"artist": "Cardi B"
+		},
+		{
+			"name": "Nissan Altima",
+			"artist": "Doechii"
+		},
+		{
+			"name": "Million Dollar Baby",
+			"artist": "Tommy Richman"
+		}
+	]
+}

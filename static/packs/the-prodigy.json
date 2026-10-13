@@ -1,0 +1,30 @@
+{
+	"id": "the-prodigy",
+	"name": "The Prodigy",
+	"songs": [
+		{
+			"name": "Breathe",
+			"artist": "The Prodigy"
+		},
+		{
+			"name": "Firestarter",
+			"artist": "The Prodigy"
+		},
+		{
+			"name": "Invaders Must Die",
+			"artist": "The Prodigy"
+		},
+		{
+			"name": "Omen",
+			"artist": "The Prodigy"
+		},
+		{
+			"name": "Poison",
+			"artist": "The Prodigy"
+		},
+		{
+			"name": "Spitfire",
+			"artist": "The Prodigy"
+		}
+	]
+}

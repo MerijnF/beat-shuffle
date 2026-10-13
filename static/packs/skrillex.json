@@ -1,0 +1,38 @@
+{
+	"id": "skrillex",
+	"name": "Skrillex",
+	"songs": [
+		{
+			"name": "Bangarang (feat. Sirah)",
+			"artist": "Skrillex, Sirah"
+		},
+		{
+			"name": "Butterflies",
+			"artist": "Skrillex, Starrah, Four Tet"
+		},
+		{
+			"name": "Don't Go",
+			"artist": "Skrillex, Justin Bieber, Don Toliver"
+		},
+		{
+			"name": "The Devil's Den",
+			"artist": "Skrillex, Wolfgang Gartner"
+		},
+		{
+			"name": "Ragga Bomb",
+			"artist": "Skrillex, Ragga Twins"
+		},
+		{
+			"name": "First of the Year (Equinox)",
+			"artist": "Skrillex"
+		},
+		{
+			"name": "Rock 'n' Roll (Will Take You to the Mountain)",
+			"artist": "Skrillex"
+		},
+		{
+			"name": "Scary Monsters and Nice Sprites",
+			"artist": "Skrillex"
+		}
+	]
+}

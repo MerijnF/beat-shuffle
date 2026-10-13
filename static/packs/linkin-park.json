@@ -1,0 +1,50 @@
+{
+	"id": "linkin-park",
+	"name": "Linkin Park",
+	"songs": [
+		{
+			"name": "Bleed It Out",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "Breaking the Habit",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "Faint",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "Given Up",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "In the End",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "New Divide",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "Numb",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "One Step Closer",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "Papercut",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "Somewhere I Belong",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "What I've Done",
+			"artist": "Linkin Park"
+		}
+	]
+}

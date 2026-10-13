@@ -1,0 +1,38 @@
+{
+	"id": "linkin-park-x-mike-shinoda",
+	"name": "Linkin Park x Mike Shinoda",
+	"songs": [
+		{
+			"name": "Already Over",
+			"artist": "Mike Shinoda"
+		},
+		{
+			"name": "Crawling",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "Fighting Myself",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "In My Head",
+			"artist": "Mike Shinoda, Kailee Morgue"
+		},
+		{
+			"name": "Lost",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "More the Victim",
+			"artist": "Linkin Park"
+		},
+		{
+			"name": "Numb/Encore",
+			"artist": "Jay-Z, Linkin Park"
+		},
+		{
+			"name": "Remember the Name",
+			"artist": "Fort Minor, Styles of Beyond"
+		}
+	]
+}

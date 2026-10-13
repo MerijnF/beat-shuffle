@@ -1,0 +1,46 @@
+{
+	"id": "panic-at-the-disco",
+	"name": "Panic! at the Disco",
+	"songs": [
+		{
+			"name": "Emperor's New Clothes",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "The Greatest Show",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "High Hopes",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "Victorious",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "Crazy = Genius",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "Dancing's Not A Crime",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "Hey Look Ma, I Made It",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "Say Amen (Saturday Night)",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "Sugar Soaker",
+			"artist": "Panic! at the Disco"
+		},
+		{
+			"name": "Viva Las Vengeance",
+			"artist": "Panic! at the Disco"
+		}
+	]
+}

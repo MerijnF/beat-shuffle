@@ -1,0 +1,26 @@
+{
+	"id": "timbaland",
+	"name": "Timbaland",
+	"songs": [
+		{
+			"name": "Dumb Thingz",
+			"artist": "Kaydence, Timbaland"
+		},
+		{
+			"name": "Famous (ft. Jake Davis)",
+			"artist": "Bruno Martini, Timbaland"
+		},
+		{
+			"name": "Has a Meaning",
+			"artist": "sid tipton, Timbaland"
+		},
+		{
+			"name": "What I Like",
+			"artist": "Karra, Nash Overstreet, Common Strangers"
+		},
+		{
+			"name": "While We're Young",
+			"artist": "Wavezswavesz"
+		}
+	]
+}

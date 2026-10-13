@@ -1,0 +1,50 @@
+{
+	"id": "shock-drops",
+	"name": "Shock Drops",
+	"songs": [
+		{
+			"name": "Houdini",
+			"artist": "Eminem"
+		},
+		{
+			"name": "Not Like Us",
+			"artist": "Kendrick Lamar"
+		},
+		{
+			"name": "Abracadabra",
+			"artist": "Lady Gaga"
+		},
+		{
+			"name": "Birds of a Feather",
+			"artist": "Billie Eilish"
+		},
+		{
+			"name": "Espresso",
+			"artist": "Sabrina Carpenter"
+		},
+		{
+			"name": "Gabriela",
+			"artist": "Katseye"
+		},
+		{
+			"name": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
+			"artist": "Andrew Gold, The Living Tombstone"
+		},
+		{
+			"name": "Me Porto Bonito",
+			"artist": "Bad Bunny, Chencho Corleone"
+		},
+		{
+			"name": "Stressed Out",
+			"artist": "Twenty One Pilots"
+		},
+		{
+			"name": "Zombie",
+			"artist": "Yungblud"
+		},
+		{
+			"name": "APT.",
+			"artist": "ROSÉ, Bruno Mars"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"id": "queen",
+	"name": "Queen",
+	"songs": [
+		{
+			"name": "Another One Bites the Dust",
+			"artist": "Queen"
+		},
+		{
+			"name": "Bohemian Rhapsody",
+			"artist": "Queen"
+		},
+		{
+			"name": "Crazy Little Thing Called Love",
+			"artist": "Queen"
+		},
+		{
+			"name": "Don't Stop Me Now",
+			"artist": "Queen"
+		},
+		{
+			"name": "I Want It All",
+			"artist": "Queen"
+		},
+		{
+			"name": "Killer Queen",
+			"artist": "Queen"
+		},
+		{
+			"name": "One Vision",
+			"artist": "Queen"
+		},
+		{
+			"name": "Somebody to Love",
+			"artist": "Queen"
+		},
+		{
+			"name": "Stone Cold Crazy",
+			"artist": "Queen"
+		},
+		{
+			"name": "We Are the Champions",
+			"artist": "Queen"
+		},
+		{
+			"name": "We Will Rock You",
+			"artist": "Queen"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"id": "electronic-mixtape",
+	"name": "Electronic Mixtape",
+	"songs": [
+		{
+			"name": "Waiting All Night (feat. Ella Eyre)",
+			"artist": "Rudimental"
+		},
+		{
+			"name": "Witchcraft",
+			"artist": "Pendulum"
+		},
+		{
+			"name": "Icarus",
+			"artist": "Madeon"
+		},
+		{
+			"name": "Alone",
+			"artist": "Marshmello"
+		},
+		{
+			"name": "Ghosts 'n' stuff (feat. Rob Swire)",
+			"artist": "Deadmau5"
+		},
+		{
+			"name": "Stay the Night (feat. Hayley Wiliams)",
+			"artist": "Zedd"
+		},
+		{
+			"name": "Sandstorm",
+			"artist": "Darude"
+		},
+		{
+			"name": "The Rockafeller Skank",
+			"artist": "Fatboy Slim"
+		},
+		{
+			"name": "Freestyler",
+			"artist": "Bomfunk MC"
+		},
+		{
+			"name": "Animals",
+			"artist": "Martin Garrix"
+		}
+	]
+}

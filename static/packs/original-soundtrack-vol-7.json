@@ -1,0 +1,26 @@
+{
+	"id": "original-soundtrack-vol-7",
+	"name": "Original Soundtrack Vol. 7",
+	"songs": [
+		{
+			"name": "Damage",
+			"artist": "F.O.O.L"
+		},
+		{
+			"name": "Lustre",
+			"artist": "Camellia"
+		},
+		{
+			"name": "The Master",
+			"artist": "Teminite, Boom Kitty"
+		},
+		{
+			"name": "Untamed",
+			"artist": "Lindsey Stirling"
+		},
+		{
+			"name": "World Wide Web",
+			"artist": "Nitro Fun"
+		}
+	]
+}

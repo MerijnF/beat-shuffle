@@ -1,0 +1,38 @@
+{
+	"id": "fall-out-boy",
+	"name": "Fall Out Boy",
+	"songs": [
+		{
+			"name": "Centuries",
+			"artist": "Fall Out Boy"
+		},
+		{
+			"name": "Dance, Dance",
+			"artist": "Fall Out Boy"
+		},
+		{
+			"name": "I Don't Care",
+			"artist": "Fall Out Boy"
+		},
+		{
+			"name": "Immortals",
+			"artist": "Fall Out Boy"
+		},
+		{
+			"name": "Irresistible",
+			"artist": "Fall Out Boy"
+		},
+		{
+			"name": "My Songs Know What You Did in the Dark (Light Em Up)",
+			"artist": "Fall Out Boy"
+		},
+		{
+			"name": "This Ain't a Scene, It's an Arms Race",
+			"artist": "Fall Out Boy"
+		},
+		{
+			"name": "Thnks fr th Mmrs",
+			"artist": "Fall Out Boy"
+		}
+	]
+}
