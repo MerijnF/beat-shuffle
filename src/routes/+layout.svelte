@@ -2,17 +2,11 @@
 	import './layout.css';
 	import favicon from '#lib/assets/favicon.svg';
 	import type { LayoutProps } from './$types';
-	import { createRegistry, setRegistry } from '#lib/registry.svelte.ts';
-	import { onMount } from 'svelte';
+	import { createRegistry } from '#lib/registry.svelte.ts';
 
 	let { children }: LayoutProps = $props();
 
-	const registry = createRegistry();
-	setRegistry(registry);
-
-	onMount(async () => {
-		await registry.load();
-	});
+	createRegistry();
 </script>
 
 <svelte:head>

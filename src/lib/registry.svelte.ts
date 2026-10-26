@@ -1,5 +1,5 @@
 import { asset } from '$app/paths';
-import { createContext } from 'svelte';
+import { createContext, onMount } from 'svelte';
 
 export function createRegistry() {
 	const registry = $state({
@@ -7,6 +7,9 @@ export function createRegistry() {
 		packIdsLoaded: false,
 		load
 	});
+	
+	setRegistry(registry);
+	onMount(async () => load());
 
 	return registry;
 
